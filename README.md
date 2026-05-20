@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Saikrishna Badiger</h1>
 
 <h3 align="center">
@@ -140,4 +139,3 @@ Passionate Computer Science Engineering student from Bengaluru, Karnataka, India
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-krishna26&theme=tokyonight" alt="GitHub Streak" />
 </p>
-```
