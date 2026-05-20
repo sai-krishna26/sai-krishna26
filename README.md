@@ -116,7 +116,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
-        <img src="./assets/software-development.gif" width="100%" alt="Web Portfolio">
+        <img src="[./assets/software-development.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100%" alt="Web Portfolio">
       </a>
     </td>
     <td width="60%" valign="top">
