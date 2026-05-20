@@ -1,141 +1,112 @@
-<h1 align="center">Hi 👋, I'm Saikrishna Badiger</h1>
+<div align="center">
 
-<h3 align="center">
-Java Full Stack Developer | DSA Enthusiast | AI & Visualization Projects Developer
-</h3>
+# 💫 Hello World, I'm Saikrishna Badiger! 💫
 
-<h4 align="center">
-Passionate Computer Science Engineering student from Bengaluru, Karnataka, India, focused on building scalable full-stack applications, interactive algorithm visualizers, and AI-powered systems.
-</h4>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;DSA+%26+Algorithms+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Scalable+Solutions" alt="Typing SVG" /></a>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sai-krishna26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sai-krishna26&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sai-krishna26&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
-</p>
+<br/><br/>
 
----
+**📍 Bengaluru, Karnataka, India**
 
-## 🚀 About Me
+*Passionate Computer Science Engineering student focused on building scalable full-stack applications, interactive algorithm visualizers, and AI-powered systems.*
 
-- 🔭 I’m currently working on  
-  **[AlgoNova – Advanced DSA Visualization Platform](https://github.com/sai-krishna26/AlgoNova_dsa_visualation_platform)**
+<br/>
 
-- 🌱 I’m currently learning  
-  **Spring Boot, Next.js, Web Development, and Advanced Java Full Stack Technologies**
+### 🔗 Connect With Me 🔗
 
-- 👯 I’m looking to collaborate on  
-  **Full Stack Java Projects, Open Source Contributions, and AI-Based Applications**
+<a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" /></a>
+<a href="mailto:vishwakarmasaikrishna@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" /></a>
+<a href="https://leetcode.com/saikrishnaa007"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=LeetCode&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" /></a>
+<a href="https://www.hackerearth.com/@skbadiger1047"><img src="https://img.shields.io/badge/HackerEarth-0D1117?style=for-the-badge&logo=hackerearth&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" /></a>
+<a href="https://www.topcoder.com/members/585214"><img src="https://img.shields.io/badge/TopCoder-0D1117?style=for-the-badge&logo=topcoder&logoColor=00F0FF&labelColor=0D1117&color=00F0FF" /></a>
 
-- 🤝 I’m looking for help with  
-  **System Design, Cloud Deployment, and Scalable Backend Architecture**
+<br/><br/>
 
-- 💬 Ask me about  
-  **Java, DSA, React, Next.js, Full Stack Development, and AI Projects**
-
-- 👨‍💻 All of my projects are available at  
-  **[My Portfolio](https://sai-krishna26.github.io/saikrishna-portfolio-styled/)**
-
-- 📝 I regularly explore and learn about  
-  **Java Full Stack Development, AI/ML, and Modern Web Technologies**
-
-- 📫 How to reach me  
-  **vishwakarmasaikrishna@gmail.com**
-
-- 📄 Experience includes  
-  **Java Full Stack Internship at X-workz, IEEE Research Publication, and Hackathon Participation**
-
-- ⚡ Fun fact  
-  **I enjoy transforming complex algorithms and computer science concepts into interactive visual experiences 🚀**
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/saikrishna-badiger" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sai-krishna26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </a>
 
-<a href="https://www.leetcode.com/saikrishnaa007" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
+</div>
 
-<a href="https://www.hackerearth.com/@skbadiger1047" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" />
-</a>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
-<a href="https://www.topcoder.com/members/585214" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" />
-</a>
-</p>
+## 🚀 Featured Project: AlgoNova
+**Advanced DSA Visualization Platform**
 
----
+> *A premium interactive DSA visualization platform that helps students understand algorithms and data structures visually with animations and simulations.*
 
-# 🛠️ Languages and Tools
+✨ **Key Features:**
+- **Visualizations:** Sorting, Searching, Trees, Graphs & Dynamic Programming.
+- **Simulators:** Pathfinding & CPU Scheduling.
+- **Data Structures:** HashMaps, Tries, Heaps & real-world problem-solving visuals.
+- **System:** Full Stack Authentication, Admin/User Dashboards & AI Assistant Integration.
+- **Interactivity:** Adjustable speed, array sizes, and user-friendly controls.
 
-<p align="left">
+🛠️ **Tech Stack:** `Next.js` • `React.js` • `Tailwind CSS` • `Framer Motion` • `GSAP` • `Spring Boot` • `MySQL` • `TensorFlow` • `ResNet50`
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+## ⚡ Tech Stack & Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql,react,nextjs,tailwind,spring,mysql,tensorflow,git,docker,vscode&perline=7" />
+</div>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
+<br/>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
+### 🌟 Core Competencies
+- **Software Engineering:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
+- **Systems & Networks:** Database Management Systems (DBMS), Operating Systems, Computer Networks
+- **Architecture:** System Design
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+## 🏆 Experience & Achievements
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
+### 💼 Experience
+- **Java Full Stack Intern** @ *X-workz, Bengaluru*
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+### 🔬 Research & Certifications
+- **Published IEEE Research Paper:** *“Abnormal Brain Tumor Classification using ResNet50”*
+- **Certifications:** NPTEL Programming in Java, NPTEL Big Data Computing, NPTEL Machine Learning, Front-End Development Certification
 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
+### 🏅 Milestones
+- Hackathon Participant & IEEE Research Author
+- Developed advanced DSA visualizers and multiple Full Stack / AI projects
 
-</p>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
----
+## 📈 GitHub Analytics
 
-# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-krishna26&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-krishna26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-krishna26&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+### *"Building the future, one line of code at a time."* 🌌
+— *Keep building, keep innovating.*
+
+</div>
