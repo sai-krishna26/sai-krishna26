@@ -104,7 +104,7 @@ Passionate Computer Science Engineering student focused on building highly scala
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
-        <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100%" alt="Brain AI Demo">
+        <img src="https://www.rsipvision.com/wp-content/uploads/2016/02/Brain-Tumor.gif" width="100%" alt="Brain AI Demo">
       </a>
     </td>
   </tr>
@@ -116,7 +116,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Web Portfolio">
+        <img src="https://iconscout.com/lottie-animation/software-development-animation_9006575" width="100%" alt="Web Portfolio">
       </a>
     </td>
     <td width="60%" valign="top">
