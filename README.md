@@ -1,124 +1,157 @@
 <div align="center">
 
-# Saikrishna Badiger
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=250&section=header&text=Saikrishna%20Badiger&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Interactive%20Visualization%20Developer&descAlignY=55&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+Enthusiast;Interactive+Visualization+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;AI+Enthusiast;Interactive+Visualization+Developer" alt="Typing SVG" />
 </a>
 
-<p><b>📍 Bengaluru, Karnataka, India</b></p>
+<br/>
 
 <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" /></a>
 <a href="https://www.linkedin.com/in/saikrishna-badiger"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 <a href="mailto:vishwakarmasaikrishna@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://leetcode.com/saikrishnaa007"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=LeetCode&logoColor=38BDF8" /></a>
+<a href="https://www.hackerearth.com/@skbadiger1047"><img src="https://img.shields.io/badge/HackerEarth-0F172A?style=for-the-badge&logo=hackerearth&logoColor=38BDF8" /></a>
 
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
----
-
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" style="margin-left: 20px; border-radius: 10px;">
+</p>
 
 Passionate Computer Science Engineering student focused on building highly scalable full-stack applications, interactive algorithm visualizers, and AI-powered systems. I aim to create performant, visually stunning, and robust software solutions suitable for modern enterprise and research environments.
 
 * **🔭 Current Focus:** Scalable web architectures, interactive visualizers, and Backend Engineering.
-* **🌱 Learning:** Advanced System Design, Cloud Architecture, and Deep Learning.
-* **⚡ Fun Fact:** Code is like humor. When you have to explain it, it’s bad.
+* **🌱 Learning:** Advanced System Design, Cloud Architecture, and Deep Learning (TensorFlow/ResNet50).
+* **🎯 Goal:** To build performant, highly robust, and elegant software solutions.
 
----
+<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
+
+## ⚡ Tech Stack
+
+<table align="center" width="100%" border="0">
+  <tr align="center">
+    <td width="33%"><b>Languages</b></td>
+    <td width="33%"><b>Frontend</b></td>
+    <td width="34%"><b>Backend & DB</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=java,python,js,ts&perline=4" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,sqlite&perline=4" /></td>
+  </tr>
+  <tr align="center">
+    <td><b>AI & Machine Learning</b></td>
+    <td><b>Tools & Platforms</b></td>
+    <td><b>Architecture</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,aws,gcp&perline=3" /></td>
+  </tr>
+</table>
+
+<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
 ## 🚀 Featured Projects
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table border="1" bordercolor="#38BDF8" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔷 AlgoNova</h3>
-      <i>Advanced DSA Visualization Platform</i><br/><br/>
-      A premium interactive visualization platform that helps students understand complex algorithms and data structures through live animations.<br/><br/>
-      <b>Stack:</b> <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,spring,mysql" height="20" align="center"/><br/><br/>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/sai-krishna26">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="AlgoNova Demo">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>🔷 AlgoNova – Advanced DSA Visualization</h3>
+      <p>A premium interactive visualization platform that helps students understand complex algorithms and data structures through live animations.</p>
+      <b>Features:</b>
+      <ul>
+        <li>Interactive Sorting, Searching, Trees, Graphs, DP.</li>
+        <li>Pathfinding & CPU Scheduling Simulators.</li>
+        <li>Full Stack Authentication & Admin/User Dashboards.</li>
+      </ul>
+      <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,spring,mysql" height="25" align="center"/><br/><br/>
       <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Brain Tumor Classification</h3>
-      <i>ResNet50 AI/ML Medical System</i><br/><br/>
-      An AI-powered system designed to classify abnormal brain tumors from MRI scans using the ResNet50 deep learning architecture. Published IEEE Research Paper.<br/><br/>
-      <b>Stack:</b> <img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter" height="20" align="center"/><br/><br/>
-      <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/Research-0F172A?style=for-the-badge&logo=ieee&color=38BDF8"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Portfolio & Microservices</h3>
-      <i>Full Stack Java Projects</i><br/><br/>
-      Modern, responsive, and animated personal portfolio website. Includes Java Spring Boot microservices, REST APIs, and integrated database structures.<br/><br/>
-      <b>Stack:</b> <img src="https://skillicons.dev/icons?i=react,html,css,js,java,spring" height="20" align="center"/><br/><br/>
-      <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Resume Screening</h3>
-      <i>Machine Learning Tool</i><br/><br/>
-      An automated tool utilizing Natural Language Processing (NLP) to screen and score resumes based on job descriptions and key skill matching.<br/><br/>
-      <b>Stack:</b> <img src="https://skillicons.dev/icons?i=python,sklearn,flask" height="20" align="center"/><br/><br/>
-      <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a>
     </td>
   </tr>
 </table>
 
-*(💡 Note: You can easily add image screenshots inside these cards using standard markdown image tags if desired!)*
+<br/>
 
----
+<table border="1" bordercolor="#38BDF8" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🧠 Brain Tumor Classification using ResNet50</h3>
+      <p>An AI-powered system designed to classify abnormal brain tumors from MRI scans using the ResNet50 deep learning architecture.</p>
+      <b>Highlights:</b>
+      <ul>
+        <li>Published IEEE Research Paper.</li>
+        <li>High accuracy medical image classification.</li>
+        <li>Utilized TensorFlow and CNN architectures.</li>
+      </ul>
+      <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter" height="25" align="center"/><br/><br/>
+      <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/Research-0F172A?style=for-the-badge&logo=ieee&color=38BDF8"></a>
+      <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/sai-krishna26">
+        <img src="https://media.giphy.com/media/3o7TKrEzvLbgzGnc5i/giphy.gif" width="100%" alt="Brain AI Demo">
+      </a>
+    </td>
+  </tr>
+</table>
 
-## ⚡ Tech Stack
+<br/>
 
-<div align="center">
-  <p><b>Languages & Frontend</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,tailwind,html,css&perline=10" />
-  <br/><br/>
-  <p><b>Backend, DB & AI</b></p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,sqlite,tensorflow,pytorch&perline=10" />
-  <br/><br/>
-  <p><b>Tools & Platforms</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,aws&perline=10" />
-</div>
+<table border="1" bordercolor="#38BDF8" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
+        <img src="https://media.giphy.com/media/l41lO4v4fBvBvO6aY/giphy.gif" width="100%" alt="Web Portfolio">
+      </a>
+    </td>
+    <td width="60%" valign="top">
+      <h3>💼 Portfolio Website & Microservices</h3>
+      <p>Modern, responsive, and animated personal portfolio website. Serves as the central hub for my projects, including integrated Java Spring Boot microservices and REST APIs.</p>
+      <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=react,html,css,js,java,spring" height="25" align="center"/><br/><br/>
+      <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sai-krishna26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=4&filter=commit,pullrequest,repository,experience" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-krishna26&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sai-krishna26&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna26&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="50%" />
 </div>
 
----
-
-## 🏆 Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/saikrishnaa007"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=LeetCode&logoColor=38BDF8" /></a>
-  <a href="https://www.hackerearth.com/@skbadiger1047"><img src="https://img.shields.io/badge/HackerEarth-0F172A?style=for-the-badge&logo=hackerearth&logoColor=38BDF8" /></a>
-</div>
-
----
+<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
 ## 🐍 GitHub Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/dist/github-contribution-grid-snake.svg">
   </picture>
-  <br/>
-  <sub><i>(Generated automatically via GitHub Actions)</i></sub>
 </div>
