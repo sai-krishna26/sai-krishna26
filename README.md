@@ -66,7 +66,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=300&lines=DSA+Visualizer;Pathfinding+Simulators;Algorithm+Animations" width="100%" alt="AlgoNova Demo">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="AlgoNova Demo">
       </a>
     </td>
     <td width="60%" valign="top">
@@ -104,7 +104,7 @@ Passionate Computer Science Engineering student focused on building highly scala
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=300&lines=AI+Medical+Scanner;ResNet50+Model;Tumor+Detection" width="100%" alt="Brain AI Demo">
+        <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100%" alt="Brain AI Demo">
       </a>
     </td>
   </tr>
@@ -116,7 +116,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=300&lines=React+Portfolio;Spring+Boot+Backend;Responsive+Design" width="100%" alt="Web Portfolio">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Web Portfolio">
       </a>
     </td>
     <td width="60%" valign="top">
