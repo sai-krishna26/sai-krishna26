@@ -104,7 +104,7 @@ Passionate Computer Science Engineering student focused on building highly scala
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
-        <img src="https://www.rsipvision.com/wp-content/uploads/2016/02/Brain-Tumor.gif" width="100%" alt="Brain AI Demo">
+        <img src="[[https://www.rsipvision.com/wp-content/uploads/2016/02/Brain-Tumor.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOGxxN3J6aWMxMzJ6b3NnMDFwY3J4djh6N3Zrb3c3YzBqcDRreW1uaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9N2UvCx7wXLnG/giphy.gif)](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)" width="100%" alt="Brain AI Demo">
       </a>
     </td>
   </tr>
