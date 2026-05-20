@@ -9,10 +9,10 @@
 <br/>
 
 <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" /></a>
-<a href="https://www.linkedin.com/in/saikrishna-badiger"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://linkedin.com/in/saikrishna-badiger"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 <a href="mailto:vishwakarmasaikrishna@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
 <a href="https://leetcode.com/saikrishnaa007"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=LeetCode&logoColor=38BDF8" /></a>
-<a href="https://www.hackerearth.com/@skbadiger1047"><img src="https://img.shields.io/badge/HackerEarth-0F172A?style=for-the-badge&logo=hackerearth&logoColor=38BDF8" /></a>
+<a href="https://www.hackerrank.com/skbadiger1047"><img src="https://img.shields.io/badge/HackerRank-0F172A?style=for-the-badge&logo=hackerrank&logoColor=38BDF8" /></a>
 
 <br/><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -66,7 +66,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="AlgoNova Demo">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=300&lines=DSA+Visualizer;Pathfinding+Simulators;Algorithm+Animations" width="100%" alt="AlgoNova Demo">
       </a>
     </td>
     <td width="60%" valign="top">
@@ -104,7 +104,7 @@ Passionate Computer Science Engineering student focused on building highly scala
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
-        <img src="https://media.giphy.com/media/3o7TKrEzvLbgzGnc5i/giphy.gif" width="100%" alt="Brain AI Demo">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=300&lines=AI+Medical+Scanner;ResNet50+Model;Tumor+Detection" width="100%" alt="Brain AI Demo">
       </a>
     </td>
   </tr>
@@ -116,7 +116,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
-        <img src="https://media.giphy.com/media/l41lO4v4fBvBvO6aY/giphy.gif" width="100%" alt="Web Portfolio">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=300&lines=React+Portfolio;Spring+Boot+Backend;Responsive+Design" width="100%" alt="Web Portfolio">
       </a>
     </td>
     <td width="60%" valign="top">
@@ -134,13 +134,13 @@ Passionate Computer Science Engineering student focused on building highly scala
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sai-krishna26&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sai-krishna26&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna26&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna26&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
@@ -150,8 +150,8 @@ Passionate Computer Science Engineering student focused on building highly scala
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
