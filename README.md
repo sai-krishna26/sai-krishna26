@@ -104,7 +104,7 @@ Passionate Computer Science Engineering student focused on building highly scala
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
-        <img src="[[https://www.rsipvision.com/wp-content/uploads/2016/02/Brain-Tumor.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOGxxN3J6aWMxMzJ6b3NnMDFwY3J4djh6N3Zrb3c3YzBqcDRreW1uaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9N2UvCx7wXLnG/giphy.gif)](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)" width="100%" alt="Brain AI Demo">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOGxxN3J6aWMxMzJ6b3NnMDFwY3J4djh6N3Zrb3c3YzBqcDRreW1uaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9N2UvCx7wXLnG/giphy.gif" width="100%" alt="Brain AI Demo">
       </a>
     </td>
   </tr>
@@ -116,14 +116,15 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
-        <img src="https://iconscout.com/lottie-animation/software-development-animation_9006575" width="100%" alt="Web Portfolio">
+        <img src="./assets/software-development.gif" width="100%" alt="Web Portfolio">
       </a>
     </td>
     <td width="60%" valign="top">
       <h3>💼 Portfolio Website & Microservices</h3>
       <p>Modern, responsive, and animated personal portfolio website. Serves as the central hub for my projects, including integrated Java Spring Boot microservices and REST APIs.</p>
       <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=react,html,css,js,java,spring" height="25" align="center"/><br/><br/>
-      <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a>
+      <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
+        <img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a>
     </td>
   </tr>
 </table>
