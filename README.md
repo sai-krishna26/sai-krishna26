@@ -134,7 +134,12 @@ Passionate Computer Science Engineering student focused on building highly scala
 
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sai-krishna26&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
-<br/>
