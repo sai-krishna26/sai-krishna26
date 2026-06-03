@@ -146,13 +146,3 @@ Passionate Computer Science Engineering student focused on building highly scala
 
 <br/>
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
-
-## 🐍 GitHub Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sai-krishna26/sai-krishna26/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
