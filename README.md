@@ -138,11 +138,4 @@ Passionate Computer Science Engineering student focused on building highly scala
   <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=sai-krishna26&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna26&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
