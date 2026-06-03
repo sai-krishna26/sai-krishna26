@@ -99,8 +99,8 @@ Passionate Computer Science Engineering student focused on building highly scala
         <li>Utilized TensorFlow and CNN architectures.</li>
       </ul>
       <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=python,tensorflow,jupyter" height="25" align="center"/><br/><br/>
-      <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/Research-0F172A?style=for-the-badge&logo=ieee&color=38BDF8"></a>
-      <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
+      <!-- <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/Research-0F172A?style=for-the-badge&logo=ieee&color=38BDF8"></a> -->
+      <a href="https://github.com/sai-krishna26/Brain_tumor_classification_project.git"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
     </td>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/sai-krishna26">
