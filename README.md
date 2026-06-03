@@ -125,6 +125,7 @@ Passionate Computer Science Engineering student focused on building highly scala
       <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=react,html,css,js,java,spring" height="25" align="center"/><br/><br/>
       <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
         <img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a>
+      <a href=https://github.com/sai-krishna26?tab=repositories><img src="https://img.shields.io/badge/Other Projects-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
     </td>
   </tr>
 </table>
