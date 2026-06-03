@@ -133,9 +133,6 @@ Passionate Computer Science Engineering student focused on building highly scala
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
 ## 📈 GitHub Analytics
-
-## 📈 GitHub Analytics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
 
