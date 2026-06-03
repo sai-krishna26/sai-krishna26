@@ -43,7 +43,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=java,python,js,ts&perline=4" /></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,sqlite&perline=4" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,mysql&perline=4" /></td>
   </tr>
   <tr align="center">
     <td><b>AI & Machine Learning</b></td>
@@ -52,7 +52,7 @@ Passionate Computer Science Engineering student focused on building highly scala
   </tr>
   <tr align="center">
     <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=3" /></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5" /></td>
     <td><img src="https://skillicons.dev/icons?i=linux,aws,gcp&perline=3" /></td>
   </tr>
 </table>
