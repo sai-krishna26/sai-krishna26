@@ -79,8 +79,8 @@ Passionate Computer Science Engineering student focused on building highly scala
         <li>Full Stack Authentication & Admin/User Dashboards.</li>
       </ul>
       <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,spring,mysql" height="25" align="center"/><br/><br/>
-      <a href="https://github.com/sai-krishna26"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a>
+      <a href="https://github.com/sai-krishna26/AlgoNova_dsa_visualation_platform.git"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&color=38BDF8"></a>
+      <!-- <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0F172A?style=for-the-badge&logo=vercel&color=38BDF8"></a> -->
     </td>
   </tr>
 </table>
