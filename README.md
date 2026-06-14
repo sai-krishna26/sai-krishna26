@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" /></a>
+<a href="https://sai-krishna26.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" /></a>
 <a href="https://linkedin.com/in/saikrishna-badiger"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 <a href="mailto:vishwakarmasaikrishna@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
 <a href="https://leetcode.com/saikrishnaa007"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=LeetCode&logoColor=38BDF8" /></a>
