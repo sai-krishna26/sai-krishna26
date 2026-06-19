@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 👨‍💻 About Me
+## About Me
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" style="margin-left: 20px; border-radius: 10px;">
 </p>
@@ -32,7 +32,7 @@ Passionate Computer Science Engineering student focused on building highly scala
 <br/>
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <table align="center" width="100%" border="0">
   <tr align="center">
@@ -60,7 +60,7 @@ Passionate Computer Science Engineering student focused on building highly scala
 <br/>
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table border="1" bordercolor="#38BDF8" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -133,7 +133,7 @@ Passionate Computer Science Engineering student focused on building highly scala
 <br/>
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 <div align="center">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=github_dark&hide_border=true" width="48%" /> -->
 
