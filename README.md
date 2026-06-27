@@ -68,8 +68,6 @@ Passionate Computer Science Engineering student with a strong interest in Softwa
       <u><b>Currently Learning</b></u><br>
       <img src="https://skillicons.dev/icons?i=ts&perline=1" />
     </td>
-
-```
 <td>
   <img src="https://skillicons.dev/icons?i=html,css&perline=2" /><br><br>
   <u><b>Currently Learning</b></u><br>
@@ -82,8 +80,6 @@ Passionate Computer Science Engineering student with a strong interest in Softwa
   <u><b>Currently Learning</b></u><br>
   <img src="https://skillicons.dev/icons?i=spring&perline=1" />
 </td>
-```
-
   </tr>
 
   <tr align="center">
@@ -98,8 +94,6 @@ Passionate Computer Science Engineering student with a strong interest in Softwa
       <u><b>Currently Learning</b></u><br>
       <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=flat-square&logo=openai&logoColor=38BDF8" />
     </td>
-
-```
 <td>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" /><br><br>
   <u><b>Currently Learning</b></u><br>
@@ -111,8 +105,6 @@ Passionate Computer Science Engineering student with a strong interest in Softwa
   <u><b>Currently Learning</b></u><br>
   <img src="https://skillicons.dev/icons?i=azure&perline=1" />
 </td>
-```
-
   </tr>
 </table>
 
