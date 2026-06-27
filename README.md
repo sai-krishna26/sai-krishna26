@@ -51,12 +51,16 @@ Passionate Computer Science Engineering student focused on building highly scala
 
 ## Tech Stack
 
+```html
+## Tech Stack
+
 <table align="center" width="100%" border="0">
   <tr align="center">
     <td width="33%"><b>Languages</b></td>
     <td width="33%"><b>Frontend</b></td>
     <td width="34%"><b>Backend & Database</b></td>
   </tr>
+
   <tr align="center">
     <td>
       <img src="https://skillicons.dev/icons?i=java,python,js&perline=3" /><br/><br/>
@@ -72,7 +76,7 @@ Passionate Computer Science Engineering student focused on building highly scala
 
     <td>
       <img src="https://skillicons.dev/icons?i=mysql&perline=1" /><br/>
-      <sub><b>Technologies:</b> JDBC</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JDBC-0F172A?style=flat-square&logo=java&logoColor=38BDF8" /><br/><br/>
       <u><b>Currently Learning</b></u><br/>
       <img src="https://skillicons.dev/icons?i=spring&perline=1" />
     </td>
@@ -88,7 +92,7 @@ Passionate Computer Science Engineering student focused on building highly scala
     <td>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" /><br/><br/>
       <u><b>Currently Learning</b></u><br/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=flat-square&logo=openai&logoColor=38BDF8" />
     </td>
 
     <td>
@@ -106,8 +110,10 @@ Passionate Computer Science Engineering student focused on building highly scala
 </table>
 
 <br/>
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+```
 ## Featured Projects
 
 <table border="1" bordercolor="#38BDF8" width="100%" style="border-collapse: collapse;">
