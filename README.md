@@ -55,64 +55,7 @@ Passionate Computer Science Engineering student with a strong interest in Softwa
 
 ## Tech Stack
 
-<table align="center" width="100%">
-  <tr align="center">
-    <td width="33%"><b>Languages</b></td>
-    <td width="33%"><b>Frontend</b></td>
-    <td width="34%"><b>Backend & Database</b></td>
-  </tr>
-
-  <tr align="center">
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,python,js&perline=3" /><br><br>
-      <u><b>Currently Learning</b></u><br>
-      <img src="https://skillicons.dev/icons?i=ts&perline=1" />
-    </td>
-<td>
-  <img src="https://skillicons.dev/icons?i=html,css&perline=2" /><br><br>
-  <u><b>Currently Learning</b></u><br>
-  <img src="https://skillicons.dev/icons?i=react&perline=1" />
-</td>
-
-<td>
-  <img src="https://skillicons.dev/icons?i=mysql&perline=1" /><br>
-  <img src="https://img.shields.io/badge/JDBC-0F172A?style=flat-square&logo=java&logoColor=38BDF8" /><br><br>
-  <u><b>Currently Learning</b></u><br>
-  <img src="https://skillicons.dev/icons?i=spring&perline=1" />
-</td>
-  </tr>
-
-  <tr align="center">
-    <td><b>AI & Machine Learning</b></td>
-    <td><b>Developer Tools</b></td>
-    <td><b>Cloud & Operating Systems</b></td>
-  </tr>
-
-  <tr align="center">
-    <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" /><br><br>
-      <u><b>Currently Learning</b></u><br>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=flat-square&logo=openai&logoColor=38BDF8" />
-    </td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" /><br><br>
-  <u><b>Currently Learning</b></u><br>
-  <img src="https://skillicons.dev/icons?i=postman&perline=1" />
-</td>
-
-<td>
-  <img src="https://skillicons.dev/icons?i=linux,aws&perline=2" /><br><br>
-  <u><b>Currently Learning</b></u><br>
-  <img src="https://skillicons.dev/icons?i=azure&perline=1" />
-</td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
+<table align="center" width="100%"> <tr align="center"> <td width="33%"><b>Languages</b></td> <td width="33%"><b>Frontend</b></td> <td width="34%"><b>Backend & Database</b></td> </tr> <tr align="center"> <td> <img src="https://skillicons.dev/icons?i=java,python,js&perline=3" /> </td> <td> <img src="https://skillicons.dev/icons?i=html,css&perline=2" /> </td> <td> <img src="https://skillicons.dev/icons?i=mysql&perline=1" /><br/> <img src="https://img.shields.io/badge/JDBC-0F172A?style=flat-square&logo=java&logoColor=38BDF8" /> </td> </tr> <tr align="center"> <td><b>AI & Machine Learning</b></td> <td><b>Developer Tools</b></td> <td><b>Cloud & Operating Systems</b></td> </tr> <tr align="center"> <td> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" /> </td> <td> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" /> </td> <td> <img src="https://skillicons.dev/icons?i=linux,aws&perline=2" /> </td> </tr> </table> ### 📚 Currently Learning <p align="center"> <img src="https://skillicons.dev/icons?i=ts,react,spring,postman,azure&perline=5" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" /> </p>
 
 ## Featured Projects
 
