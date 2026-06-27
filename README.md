@@ -36,22 +36,23 @@
 </div>
 
 ## About Me
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" align="right" style="margin-left: 20px; border-radius: 10px;">
 </p>
 
-Passionate Computer Science Engineering student focused on building highly scalable full-stack applications, interactive algorithm visualizers, and AI-powered systems. I aim to create performant, visually stunning, and robust software solutions suitable for modern enterprise and research environments.
+Passionate Computer Science Engineering student with a strong interest in Software Development, Backend Engineering, and AI-driven applications. I enjoy building scalable web applications, interactive algorithm visualizers, and intelligent systems while continuously exploring modern technologies and software design principles.
 
-* ** Current Focus:** Scalable web architectures, interactive visualizers, and Backend Engineering.
-* ** Learning:** Advanced System Design, Cloud Architecture, and Deep Learning (TensorFlow/ResNet50).
-* ** Goal:** To build performant, highly robust, and elegant software solutions.
+* **Current Focus:** Full-Stack Development, Backend Engineering, and Interactive Visualizers.
+* **Learning:** System Design, Cloud Architecture, Spring Boot, and Deep Learning (TensorFlow/ResNet50).
+* **Strengths:** Problem Solving, Data Structures & Algorithms, and building efficient, user-centric applications.
+* **Goal:** To engineer scalable and impactful software solutions that solve real-world problems while continuously learning and growing as a developer.
+
+<br clear="right"/>
 
 <br/>
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
 
-## Tech Stack
-
-```html
 ## Tech Stack
 
 <table align="center" width="100%" border="0">
@@ -113,7 +114,7 @@ Passionate Computer Science Engineering student focused on building highly scala
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
-```
+
 ## Featured Projects
 
 <table border="1" bordercolor="#38BDF8" width="100%" style="border-collapse: collapse;">
