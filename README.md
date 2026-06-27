@@ -8,11 +8,28 @@
 
 <br/>
 
-<a href="https://sai-krishna26.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=38BDF8" /></a>
-<a href="https://linkedin.com/in/saikrishna-badiger"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="mailto:vishwakarmasaikrishna@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
-<a href="https://leetcode.com/saikrishnaa007"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=LeetCode&logoColor=38BDF8" /></a>
-<a href="https://www.hackerrank.com/skbadiger1047"><img src="https://img.shields.io/badge/HackerRank-0F172A?style=for-the-badge&logo=hackerrank&logoColor=38BDF8" /></a>
+<h3 align="center"> Explore My Work</h3>
+
+<p align="center">
+  <a href="https://sai-krishna26.github.io/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-38BDF8?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0F172A" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/saikrishna-badiger">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
+  </a>
+  <a href="mailto:vishwakarmasaikrishna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  </a>
+  <a href="https://leetcode.com/saikrishnaa007">
+    <img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=LeetCode&logoColor=38BDF8" />
+  </a>
+  <a href="https://www.hackerrank.com/skbadiger1047">
+    <img src="https://img.shields.io/badge/HackerRank-0F172A?style=for-the-badge&logo=hackerrank&logoColor=38BDF8" />
+  </a>
+</p>
 
 <br/><br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -25,9 +42,9 @@
 
 Passionate Computer Science Engineering student focused on building highly scalable full-stack applications, interactive algorithm visualizers, and AI-powered systems. I aim to create performant, visually stunning, and robust software solutions suitable for modern enterprise and research environments.
 
-* **🔭 Current Focus:** Scalable web architectures, interactive visualizers, and Backend Engineering.
-* **🌱 Learning:** Advanced System Design, Cloud Architecture, and Deep Learning (TensorFlow/ResNet50).
-* **🎯 Goal:** To build performant, highly robust, and elegant software solutions.
+* ** Current Focus:** Scalable web architectures, interactive visualizers, and Backend Engineering.
+* ** Learning:** Advanced System Design, Cloud Architecture, and Deep Learning (TensorFlow/ResNet50).
+* ** Goal:** To build performant, highly robust, and elegant software solutions.
 
 <br/>
 <div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></div>
@@ -38,22 +55,42 @@ Passionate Computer Science Engineering student focused on building highly scala
   <tr align="center">
     <td width="33%"><b>Languages</b></td>
     <td width="33%"><b>Frontend</b></td>
-    <td width="34%"><b>Backend & DB</b></td>
+    <td width="34%"><b>Backend & Database</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=java,python,js,ts&perline=4" /></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,mysql&perline=4" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python,js&perline=3" /><br/>
+      <sub><b>Currently Learning:</b> TypeScript</sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css&perline=2" /><br/>
+      <sub><b>Currently Learning:</b> React</sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql&perline=1" /><br/>
+      <sub><b>Technologies:</b> JDBC</sub><br/>
+      <sub><b>Currently Learning:</b> Spring Boot</sub>
+    </td>
   </tr>
+
   <tr align="center">
     <td><b>AI & Machine Learning</b></td>
-    <td><b>Tools & Platforms</b></td>
-    <td><b>Architecture</b></td>
+    <td><b>Developer Tools</b></td>
+    <td><b>Cloud & Operating Systems</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=3" /></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,aws,gcp&perline=3" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" /><br/>
+      <sub><b>Currently Learning:</b> Prompt Engineering</sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" /><br/>
+      <sub><b>Currently Learning:</b> Postman</sub>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=windows,linux,aws&perline=3" /><br/>
+      <sub><b>Currently Learning:</b> Azure</sub>
+    </td>
   </tr>
 </table>
 
@@ -70,7 +107,7 @@ Passionate Computer Science Engineering student focused on building highly scala
       </a>
     </td>
     <td width="60%" valign="top">
-      <h3>🔷 AlgoNova – Advanced DSA Visualization</h3>
+      <h3> AlgoNova – Advanced DSA Visualization</h3>
       <p>A premium interactive visualization platform that helps students understand complex algorithms and data structures through live animations.</p>
       <b>Features:</b>
       <ul>
@@ -90,7 +127,7 @@ Passionate Computer Science Engineering student focused on building highly scala
 <table border="1" bordercolor="#38BDF8" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="60%" valign="top">
-      <h3>🧠 Brain Tumor Classification using ResNet50</h3>
+      <h3> Brain Tumor Classification using ResNet50</h3>
       <p>An AI-powered system designed to classify abnormal brain tumors from MRI scans using the ResNet50 deep learning architecture.</p>
       <b>Highlights:</b>
       <ul>
@@ -120,7 +157,7 @@ Passionate Computer Science Engineering student focused on building highly scala
       </a>
     </td>
     <td width="60%" valign="top">
-      <h3>💼 Portfolio Website & Microservices</h3>
+      <h3> Portfolio Website & Microservices</h3>
       <p>Modern, responsive, and animated personal portfolio website. Serves as the central hub for my projects, including integrated Java Spring Boot microservices and REST APIs.</p>
       <b>Stack:</b> <br/><img src="https://skillicons.dev/icons?i=react,html,css,js,java,spring" height="25" align="center"/><br/><br/>
       <a href="https://sai-krishna26.github.io/saikrishna-portfolio-styled/">
