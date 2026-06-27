@@ -59,17 +59,22 @@ Passionate Computer Science Engineering student focused on building highly scala
   </tr>
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=java,python,js&perline=3" /><br/>
-      <sub><b>Currently Learning:</b> TypeScript</sub>
+      <img src="https://skillicons.dev/icons?i=java,python,js&perline=3" /><br/><br/>
+      <u><b>Currently Learning</b></u><br/>
+      <img src="https://skillicons.dev/icons?i=ts&perline=1" />
     </td>
+
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css&perline=2" /><br/>
-      <sub><b>Currently Learning:</b> React</sub>
+      <img src="https://skillicons.dev/icons?i=html,css&perline=2" /><br/><br/>
+      <u><b>Currently Learning</b></u><br/>
+      <img src="https://skillicons.dev/icons?i=react&perline=1" />
     </td>
+
     <td>
       <img src="https://skillicons.dev/icons?i=mysql&perline=1" /><br/>
-      <sub><b>Technologies:</b> JDBC</sub><br/>
-      <sub><b>Currently Learning:</b> Spring Boot</sub>
+      <sub><b>Technologies:</b> JDBC</sub><br/><br/>
+      <u><b>Currently Learning</b></u><br/>
+      <img src="https://skillicons.dev/icons?i=spring&perline=1" />
     </td>
   </tr>
 
@@ -78,18 +83,24 @@ Passionate Computer Science Engineering student focused on building highly scala
     <td><b>Developer Tools</b></td>
     <td><b>Cloud & Operating Systems</b></td>
   </tr>
+
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" /><br/>
-      <sub><b>Currently Learning:</b> Prompt Engineering</sub>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" /><br/><br/>
+      <u><b>Currently Learning</b></u><br/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" />
     </td>
+
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" /><br/>
-      <sub><b>Currently Learning:</b> Postman</sub>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=4" /><br/><br/>
+      <u><b>Currently Learning</b></u><br/>
+      <img src="https://skillicons.dev/icons?i=postman&perline=1" />
     </td>
+
     <td>
-      <img src="https://skillicons.dev/icons?i=windows,linux,aws&perline=3" /><br/>
-      <sub><b>Currently Learning:</b> Azure</sub>
+      <img src="https://skillicons.dev/icons?i=windows,linux,aws&perline=3" /><br/><br/>
+      <u><b>Currently Learning</b></u><br/>
+      <img src="https://skillicons.dev/icons?i=azure&perline=1" />
     </td>
   </tr>
 </table>
