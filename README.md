@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=250&section=header&text=Saikrishna%20Badiger&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Interactive%20Visualization%20Developer&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=250&section=header&text=Saikrishna%20Badiger&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Development%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Solving+Problems+Through+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
 </a>
 
 <br/>
