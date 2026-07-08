@@ -135,9 +135,17 @@ Passionate Computer Science Engineering student with a strong interest in Softwa
 
 ## GitHub Analytics
 <div align="center">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=github_dark&hide_border=true" width="48%" /> -->
 
-  <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=sai-krishna26&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-  <img src="https://streak-stats.demolab.com?user=sai-krishna26&theme=github-dark-blue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-krishna26&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-krishna26&theme=github-dark&hide_border=true" width="98%" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sai-krishna26&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
