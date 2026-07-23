@@ -136,10 +136,10 @@ Passionate Computer Science Engineering student with a strong interest in Softwa
 ## GitHub Analytics
 <div align="center">
 
-<img src="./assets/animated-streak.svg" width="650" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sai-krishna26&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="./assets/animated-graph.svg" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-krishna26&theme=github-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
